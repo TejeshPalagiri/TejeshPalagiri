@@ -30,7 +30,7 @@
     </ul>
     <h4>Skills 🏹 </h4>
     <ul>
-        <li> Languages: C, Javascript, Python, Java </li>
+        <li> Languages: Typescript, Javascript, Python, Java, c </li>
         <li> Frameworks: Express Js, Angular </li>
         <li> Databases: MongoDB, Couchbase, Realm, MySQL </li>
         <li> Tools: Git, AWS, Docker </li>
@@ -43,13 +43,13 @@
 ### Language Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TejeshPalagiri&layout=compact&theme=dark&hide_border=false&text_color=fff&border_color=eee)
 ### Github Stats
-![](https://github-readme-stats.vercel.app/api?username=Tejeshpalagiri&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark&text_color=fff&border_color=eee&rank_icon=github)
-
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Tejeshpalagiri&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark&text_color=fff&border_color=eee&rank_icon=github)
+-->
 
 ## Currently Cooking 🍳 
 - A standalone passoword manger app that works with the personal server that is hosted somewhere
 
-##### Version (1.0.0126001)
+##### Version (1.0.0126002)
 <!--
 **TejeshPalagiri/TejeshPalagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
