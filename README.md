@@ -37,8 +37,6 @@
     </ul>
 </div>
 
-### Visitors
-![](https://profile-counter.glitch.me/TejeshPalagiri/count.svg)
 
 ### Language Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TejeshPalagiri&layout=compact&theme=dark&hide_border=false&text_color=fff&border_color=eee)
@@ -48,6 +46,9 @@
 
 ## Currently Cooking 🍳 
 - A standalone passoword manger app that works with the personal server that is hosted somewhere
+
+### Visitors
+![](https://profile-counter.glitch.me/TejeshPalagiri/count.svg)
 
 ##### Version (1.0.0126002)
 <!--
