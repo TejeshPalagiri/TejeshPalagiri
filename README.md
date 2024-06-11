@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="center">
+<!-- <div align="center">
     <img alt="profile picture" style="margin-bottom:10px; border-radius: 50%;" height="200px" src="images/my_pic.jpeg"/>
     <br/>
     <div>
@@ -37,19 +37,20 @@
     </ul>
 </div>
 
-
 ### Language Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TejeshPalagiri&layout=compact&theme=dark&hide_border=false&text_color=fff&border_color=eee)
 ### Github Stats
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Tejeshpalagiri&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark&text_color=fff&border_color=eee&rank_icon=github)
 -->
 
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Tejeshpalagiri&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark&text_color=fff&border_color=eee&rank_icon=github)
+-->
+<!--
 ## Currently Cooking 🍳 
 - A standalone passoword manger app that works with the personal server that is hosted somewhere
 
 ### Visitors
 ![](https://profile-counter.glitch.me/TejeshPalagiri/count.svg)
-
+-->
 ##### Version (1.0.0126002)
 <!--
 **TejeshPalagiri/TejeshPalagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
